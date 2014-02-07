@@ -1,0 +1,21 @@
+{
+  "name": "node.js_project",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "",
+  "license": "mit",
+  "dependencies": {
+    "express": "~3.4.8",
+    "jade": "~1.1.5"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-sass": "~0.10.0"
+  }
+}
